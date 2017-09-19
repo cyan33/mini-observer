@@ -1,0 +1,23 @@
+{
+  "name": "mini-observer",
+  "version": "1.0.0",
+  "description": "A minimal implementation of the observer pattern in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasyimgit/mini-observer.git"
+  },
+  "keywords": [
+    "observer",
+    "design-pattern"
+  ],
+  "author": "Chang Yan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomasyimgit/mini-observer/issues"
+  },
+  "homepage": "https://github.com/thomasyimgit/mini-observer#readme"
+}
