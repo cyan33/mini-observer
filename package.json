@@ -1,6 +1,6 @@
 {
   "name": "@changyan/mini-observer",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "A redux-like implementation of the observer pattern in JavaScript",
   "main": "./dist/index.js",
   "scripts": {
